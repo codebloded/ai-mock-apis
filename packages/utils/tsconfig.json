@@ -1,0 +1,5 @@
+{
+  "paths": {
+    "@api/*": ["packages/api/src/*"]
+  }
+}
